@@ -7,8 +7,8 @@ Original file is located at
     https://colab.research.google.com/drive/1YB2Ynpf14bP8QTs3zFKK3xlVpHU1x5wJ
 """
 
-!pip install sumy
-!pip install nltk  # Install NLTK if not already installed
+pip install sumy
+pip install nltk  # Install NLTK if not already installed
 
 import pandas as pd
 from textblob import TextBlob
